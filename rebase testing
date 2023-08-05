@@ -1,0 +1,31 @@
+[33mcommit 1c6f8eb691eb0cc8bdb22b7762186585bbdab5e5[m[33m ([m[1;36mHEAD -> [m[1;32mbranch1[m[33m)[m
+Author: abhishekpeddada <abhishekpeddada@gmail.com>
+Date:   Fri Aug 4 23:32:56 2023 +0530
+
+    rebase testing
+
+[33mcommit d3b444cc0b4b232010dcb11fcb54f5175ab402e7[m[33m ([m[1;31morigin/branch1[m[33m)[m
+Author: Lofflin Poddoku <lofflin04@gmail.com>
+Date:   Sat Aug 5 14:41:07 2023 +0530
+
+    branch testing
+
+[33mcommit 1cbbcfa9f2ab61f307a24d761d390922f52f6c02[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Lofflin Poddoku <lofflin04@gmail.com>
+Date:   Sat Aug 5 14:30:03 2023 +0530
+
+    Folder modified.
+
+[33mcommit 711524c211fba01262546656ee9697d539cf83ea[m
+Author: Lofflin Poddoku <lofflin04@gmail.com>
+Date:   Sat Aug 5 14:27:05 2023 +0530
+
+    Folder modified
+    
+    Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
+
+[33mcommit bfd06cf2ff59f9d991278404937a71601dc98334[m
+Author: unknown <lofflin04@gmail.com>
+Date:   Sat Aug 5 14:15:51 2023 +0530
+
+     first commit done
